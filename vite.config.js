@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [react(), sentryVitePlugin({
     org: "jsm-ked",
     project: "javascript-react",
-    base: "/3dAppleIPhone15proWeb/"
+    base: "/D3vGusain/3dAppleIPhone15proWeb/"
   })],
 
   build: {
